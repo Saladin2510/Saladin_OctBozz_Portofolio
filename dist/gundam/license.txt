@@ -1,0 +1,8 @@
+Model Information:
+* title:	XXXG-00W0 Wing Gundam Zero
+* source:	https://sketchfab.com/3d-models/xxxg-00w0-wing-gundam-zero-d710178ffdba4013b237a12ae171e0ae
+* author:	Tigerar1 (https://sketchfab.com/allanromanreyes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
